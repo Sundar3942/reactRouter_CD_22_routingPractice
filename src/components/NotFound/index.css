@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.not-found-page {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.not-found-img {
+  width: 200px;
+  height: 200px;
+}
+.not-found-heading {
+  font-size: 45px;
+  color: #551e53;
+}

@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.header-container {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.logo-container {
+  margin: 0;
+  width: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-img {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
+.logo-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+}
+.header-options-container {
+  margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.header-option {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+  margin-right: 15px;
+}

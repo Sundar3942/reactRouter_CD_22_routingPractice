@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.home-page {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.home-img {
+  width: 200px;
+  height: 200px;
+}
+.home-heading {
+  font-size: 45px;
+  color: #551e53;
+}
